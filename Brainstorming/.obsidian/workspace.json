@@ -50,11 +50,14 @@
             "id": "d76a98038d25f44e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tips/BFS（广度优先搜索）.md",
-                "mode": "source",
-                "source": false
+                "file": "Tips/Partiton Int.canvas",
+                "viewState": {
+                  "x": 533.3356324193245,
+                  "y": 440.6134161340718,
+                  "zoom": -1.1765443979369274
+                }
               }
             }
           }
@@ -125,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips/BFS（广度优先搜索）.md",
+                "file": "Tips/Partiton Int.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips/BFS（广度优先搜索）.md",
+                "file": "Tips/Partiton Int.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips/BFS（广度优先搜索）.md"
+                "file": "Tips/Partiton Int.canvas"
               }
             }
           }
@@ -173,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +190,10 @@
   },
   "active": "d76a98038d25f44e",
   "lastOpenFiles": [
-    "Tips/DFS（深度优先搜索）.md",
+    "Tips/Partiton Int.canvas",
+    "Tips/整数划分.md",
     "Tips/BFS（广度优先搜索）.md",
+    "Tips/DFS（深度优先搜索）.md",
     "Thoughtmap/Graph/Unorded_Graph.canvas",
     "未命名",
     "Thoughtmap/Graph/DFS.md",

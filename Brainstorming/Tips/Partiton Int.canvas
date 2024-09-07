@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"79beed9f086f6566","x":-380,"y":-180,"width":420,"height":300,"type":"text","text":"### eg:\n\t6=6;\n\t6=5+1;\n\t6=4+2;6=4+1+1;\n\t6=3+3;6=3+2+1；6=3+1+1+1；\n\t6=2+2+2;6=2+2+1+1;6=2+1+1+1+1;\n\t6=1+1+1+1+1+1；\n\t\n\t"},
+		{"id":"488a81ab484997aa","x":280,"y":-380,"width":140,"height":60,"type":"text","text":"p(n,1)=1"},
+		{"id":"34362513aa627632","x":-380,"y":-320,"width":260,"height":100,"type":"text","text":"P(n,m)->n的最大加数不大于m的划分组成"},
+		{"id":"4d76e9b37e198bb1","x":280,"y":-220,"width":200,"height":60,"type":"text","text":"p(n,m)=p(n,n)"},
+		{"id":"b575635b9f02f430","x":280,"y":0,"width":250,"height":60,"type":"text","text":"p(n,n)=p(n,n-1)+1"},
+		{"id":"df2e410491afad1b","x":295,"y":240,"width":345,"height":60,"type":"text","text":"p(n,m)=p(n,m-1)+p(n-m,m)"},
+		{"id":"3f59fb32415b0472","x":-721,"y":942,"width":250,"height":60,"type":"text","text":"1+p(4,1)+p(2,2)"},
+		{"id":"cf7a674d3b718fb4","x":-700,"y":815,"width":207,"height":60,"type":"text","text":"p(6,1)+p(4,2)"},
+		{"id":"ee792cabd94cd3ea","x":-493,"y":678,"width":195,"height":60,"type":"text","text":"p(6,2)+p(3,3)"},
+		{"id":"0468ef9fea839560","x":-721,"y":1060,"width":250,"height":60,"type":"text","text":"2+p(2,1)+1=4"},
+		{"id":"239ae764568d8bd2","x":-300,"y":960,"width":250,"height":60,"type":"text","text":"1+p(3,1)+p(1,2)=3"},
+		{"id":"8e7baf65939a7a20","x":-250,"y":520,"width":182,"height":60,"type":"text","text":"p(6,3)+p(2,4)"},
+		{"id":"83fda9721feda095","x":-250,"y":815,"width":150,"height":60,"type":"text","text":"p(3,2)+1"},
+		{"id":"2a58c355c4ce032d","x":-218,"y":320,"width":118,"height":60,"type":"text","text":"p(6,4)"},
+		{"id":"cf6d3250503c9fa1","x":-43,"y":815,"width":250,"height":60,"type":"text","text":"1+p(2,1)=2"},
+		{"id":"b7ef7bf0f1d656c8","x":22,"y":678,"width":119,"height":60,"type":"text","text":"p(2,2)"}
+	],
+	"edges":[
+		{"id":"132b6d379851d062","fromNode":"79beed9f086f6566","fromSide":"right","toNode":"488a81ab484997aa","toSide":"left","label":"m=1"},
+		{"id":"1189c7ec240702a6","fromNode":"79beed9f086f6566","fromSide":"right","toNode":"4d76e9b37e198bb1","toSide":"left","label":"m>n"},
+		{"id":"b062fef0f33ca8ef","fromNode":"79beed9f086f6566","fromSide":"right","toNode":"b575635b9f02f430","toSide":"left","label":"m=n"},
+		{"id":"ea764f6a9e7b025c","fromNode":"79beed9f086f6566","fromSide":"right","toNode":"df2e410491afad1b","toSide":"left","label":"m<n"},
+		{"id":"5458a5c1df23e6b8","fromNode":"79beed9f086f6566","fromSide":"bottom","toNode":"2a58c355c4ce032d","toSide":"top"},
+		{"id":"bdd19582faa7c0fa","fromNode":"2a58c355c4ce032d","fromSide":"bottom","toNode":"8e7baf65939a7a20","toSide":"top","label":"m<n"},
+		{"id":"ef96221d68dafbb3","fromNode":"8e7baf65939a7a20","fromSide":"bottom","toNode":"ee792cabd94cd3ea","toSide":"top","label":"p(6,3)"},
+		{"id":"f145a17feb406dcd","fromNode":"8e7baf65939a7a20","fromSide":"bottom","toNode":"b7ef7bf0f1d656c8","toSide":"top","label":"p(2,4)"},
+		{"id":"234b60d3bafe1b04","fromNode":"ee792cabd94cd3ea","fromSide":"bottom","toNode":"83fda9721feda095","toSide":"top"},
+		{"id":"f15882e9ffd1fa56","fromNode":"ee792cabd94cd3ea","fromSide":"bottom","toNode":"cf7a674d3b718fb4","toSide":"top"},
+		{"id":"0380fa66571856ba","fromNode":"83fda9721feda095","fromSide":"bottom","toNode":"239ae764568d8bd2","toSide":"top"},
+		{"id":"560a980a2880a53a","fromNode":"b7ef7bf0f1d656c8","fromSide":"bottom","toNode":"cf6d3250503c9fa1","toSide":"top"},
+		{"id":"72a9757b11c04f79","fromNode":"cf7a674d3b718fb4","fromSide":"bottom","toNode":"3f59fb32415b0472","toSide":"top"},
+		{"id":"779232e11c4b0d2b","fromNode":"3f59fb32415b0472","fromSide":"bottom","toNode":"0468ef9fea839560","toSide":"top"}
+	]
+}
