@@ -8,10 +8,14 @@ void swap(int* a, int* b) {
 }
 
 void Bubblesort(int A[], int length) {
-	int i, j;
-	for (i = 0; i < length - 1; i++) {
+	int i, j，, flag = 1;
+	for (i = 0; i < length - 1 || flag == 1; i++) {
+		flag = 0;
 		for (j = 0; j < length -1- i; j++) {
-			if (A[j] > A[j + 1]) swap(&A[j], &A[j + 1]);
+			if (A[j] > A[j + 1]) {
+				swap(&A[j], &A[j + 1]);
+				flag = 1;
+			}
 		}
 	}
 }
