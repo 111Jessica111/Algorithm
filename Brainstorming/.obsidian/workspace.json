@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Thoughtmap/Graph/Unorded_Graph.canvas",
+                "file": "Thoughtmap/Unorded_Graph.canvas",
                 "viewState": {
                   "x": -845.5432141266277,
                   "y": -349.61386749368864,
@@ -52,7 +52,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Tips/Partiton Int.canvas",
+                "file": "Thoughtmap/Partiton Int.canvas",
                 "viewState": {
                   "x": 533.3356324193245,
                   "y": 440.6134161340718,
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips/Partiton Int.canvas",
+                "file": "Thoughtmap/Partiton Int.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips/Partiton Int.canvas",
+                "file": "Thoughtmap/Partiton Int.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips/Partiton Int.canvas"
+                "file": "Thoughtmap/Partiton Int.canvas"
               }
             }
           }
@@ -188,13 +188,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d76a98038d25f44e",
+  "active": "18d932e5695ec148",
   "lastOpenFiles": [
-    "Tips/Partiton Int.canvas",
+    "Thoughtmap/Partiton Int.canvas",
     "Tips/整数划分.md",
     "Tips/BFS（广度优先搜索）.md",
     "Tips/DFS（深度优先搜索）.md",
-    "Thoughtmap/Graph/Unorded_Graph.canvas",
+    "Thoughtmap/Unorded_Graph.canvas",
     "未命名",
     "Thoughtmap/Graph/DFS.md",
     "Thoughtmap/Graph",
