@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "815b5e4ef47ec170",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0db1ed9782d93a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab5cbadeee2705a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Thoughtmap/Graph/Unorded_Graph.canvas",
+                "viewState": {
+                  "x": -845.5432141266277,
+                  "y": -349.61386749368864,
+                  "zoom": -0.9939822425436096
+                }
+              }
+            }
+          },
+          {
+            "id": "be0be773bd20e465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips/DFS（深度优先搜索）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddb8e3b61e69745d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips/DFS（深度优先搜索）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d76a98038d25f44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips/BFS（广度优先搜索）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b27838d6416d2356",
+    "type": "split",
+    "children": [
+      {
+        "id": "919c5a876d1e8ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d932e5695ec148",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bffdf53dcb17218",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "871dc8d3775e99bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2a5481367dead18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3feafc1cd82fb871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192e736a9b29a486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tips/BFS（广度优先搜索）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd69c42333adf272",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tips/BFS（广度优先搜索）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ff0660c477ca402",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd559062879d9da6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tips/BFS（广度优先搜索）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d76a98038d25f44e",
+  "lastOpenFiles": [
+    "Tips/DFS（深度优先搜索）.md",
+    "Tips/BFS（广度优先搜索）.md",
+    "Thoughtmap/Graph/Unorded_Graph.canvas",
+    "未命名",
+    "Thoughtmap/Graph/DFS.md",
+    "Thoughtmap/Graph",
+    "Thoughtmap/Graph.md",
+    "欢迎.md",
+    "Thoughtmap",
+    "Tips"
+  ]
+}
