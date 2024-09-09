@@ -50,19 +50,40 @@
             "id": "d76a98038d25f44e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Thoughtmap/Partiton Int.canvas",
-                "viewState": {
-                  "x": 533.3356324193245,
-                  "y": 440.6134161340718,
-                  "zoom": -1.1765443979369274
-                }
+                "file": "Tips/DFS（深度优先搜索）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d8ed7c71cb5b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips/贪心算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1420f1d6c7f37d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "巧思.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughtmap/Partiton Int.canvas",
+                "file": "巧思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughtmap/Partiton Int.canvas",
+                "file": "巧思.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughtmap/Partiton Int.canvas"
+                "file": "巧思.md"
               }
             }
           }
@@ -188,13 +209,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "18d932e5695ec148",
+  "active": "1420f1d6c7f37d98",
   "lastOpenFiles": [
-    "Thoughtmap/Partiton Int.canvas",
-    "Tips/整数划分.md",
-    "Tips/BFS（广度优先搜索）.md",
+    "Tips/贪心算法.md",
+    "巧思.md",
     "Tips/DFS（深度优先搜索）.md",
+    "Tips/BFS（广度优先搜索）.md",
+    "Thoughtmap/Partiton Int.canvas",
     "Thoughtmap/Unorded_Graph.canvas",
+    "Tips/整数划分.md",
     "未命名",
     "Thoughtmap/Graph/DFS.md",
     "Thoughtmap/Graph",
