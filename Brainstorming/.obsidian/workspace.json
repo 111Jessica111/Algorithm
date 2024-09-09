@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips/贪心算法.md",
+                "file": "Tips/DFS（深度优先搜索）.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,14 +76,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "巧思.md",
+                "file": "Tips/DFS（深度优先搜索）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "巧思.md",
+                "file": "Tips/DFS（深度优先搜索）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "巧思.md",
+                "file": "Tips/DFS（深度优先搜索）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "巧思.md"
+                "file": "Tips/DFS（深度优先搜索）.md"
               }
             }
           }
@@ -209,13 +209,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1420f1d6c7f37d98",
+  "active": "57d8ed7c71cb5b92",
   "lastOpenFiles": [
-    "Tips/贪心算法.md",
-    "巧思.md",
+    "未命名.md",
     "Tips/DFS（深度优先搜索）.md",
-    "Tips/BFS（广度优先搜索）.md",
     "Thoughtmap/Partiton Int.canvas",
+    "未命名.canvas",
+    "Tips/巧思.md",
+    "Tips/BFS（广度优先搜索）.md",
+    "Tips/贪心算法.md",
     "Thoughtmap/Unorded_Graph.canvas",
     "Tips/整数划分.md",
     "未命名",
