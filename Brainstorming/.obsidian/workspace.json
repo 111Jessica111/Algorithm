@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运行时间计算.md",
+                "file": "Tips/运行时间计算.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运行时间计算.md",
+                "file": "Tips/运行时间计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运行时间计算.md",
+                "file": "Tips/运行时间计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运行时间计算.md"
+                "file": "Tips/运行时间计算.md"
               }
             }
           }
@@ -248,10 +248,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ee8d8de2aea74a91",
+  "active": "18d932e5695ec148",
   "lastOpenFiles": [
     "Tips/文件.md",
-    "运行时间计算.md",
+    "Tips/运行时间计算.md",
     "Thoughtmap/if---else 探讨.canvas",
     "Tips/巧思.md",
     "Tips/概率算法.md",
