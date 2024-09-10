@@ -86,6 +86,30 @@
             }
           },
           {
+            "id": "6ba70d053ffbcfc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips/文件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee8d8de2aea74a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "运行时间计算.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1420f1d6c7f37d98",
             "type": "leaf",
             "state": {
@@ -98,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughtmap/if---else 探讨.canvas",
+                "file": "运行时间计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughtmap/if---else 探讨.canvas",
+                "file": "运行时间计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughtmap/if---else 探讨.canvas"
+                "file": "运行时间计算.md"
               }
             }
           }
@@ -224,10 +248,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ca4c5d470344b90",
+  "active": "ee8d8de2aea74a91",
   "lastOpenFiles": [
-    "Tips/巧思.md",
+    "Tips/文件.md",
+    "运行时间计算.md",
     "Thoughtmap/if---else 探讨.canvas",
+    "Tips/巧思.md",
     "Tips/概率算法.md",
     "Tips/BFS（广度优先搜索）.md",
     "Tips/DFS（深度优先搜索）.md",
