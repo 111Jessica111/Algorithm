@@ -1,13 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void swap1(int *a, int *b) {
-	int temp;
-	temp = *a;
-	*a = *b;
-	*b = temp;
-}
-
 void Conversion(int B[4][3],int A[3][4]) {
 	int i, j;
 	for (i = 0; i < 4; i++) {
