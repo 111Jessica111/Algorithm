@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips/运行时间计算.md",
+                "file": "Tips/巧思.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips/运行时间计算.md",
+                "file": "Tips/巧思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips/运行时间计算.md",
+                "file": "Tips/巧思.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips/运行时间计算.md"
+                "file": "Tips/巧思.md"
               }
             }
           }
@@ -248,8 +248,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "18d932e5695ec148",
+  "active": "ee8d8de2aea74a91",
   "lastOpenFiles": [
+    "Thoughtmap/Unorded_Graph.canvas",
     "Tips/文件.md",
     "Tips/运行时间计算.md",
     "Thoughtmap/if---else 探讨.canvas",
@@ -259,7 +260,6 @@
     "Tips/DFS（深度优先搜索）.md",
     "Thoughtmap/Partiton Int.canvas",
     "Tips/贪心算法.md",
-    "Thoughtmap/Unorded_Graph.canvas",
     "Tips/整数划分.md",
     "未命名",
     "Thoughtmap/Graph/DFS.md",
