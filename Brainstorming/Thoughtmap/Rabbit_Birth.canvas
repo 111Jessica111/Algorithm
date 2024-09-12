@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"8bcb6862187226fe","x":-420,"y":-340,"width":740,"height":580,"type":"group","label":"模拟"},
+		{"id":"5afa0fea391c15c9","x":-400,"y":-80,"width":100,"height":60,"type":"text","text":"1(1)"},
+		{"id":"9a9c581ac08a3762","type":"text","text":"1(2)","x":-240,"y":-80,"width":100,"height":60},
+		{"id":"81b5f0c22d713022","type":"text","text":"1(3)","x":-80,"y":-160,"width":100,"height":60},
+		{"id":"55464d747cc4c30b","type":"text","text":"2(1)","x":-80,"y":-20,"width":100,"height":60},
+		{"id":"4c7b618745ae9f88","type":"text","text":"2(2)","x":60,"y":40,"width":100,"height":60},
+		{"id":"816b48057a2058f2","type":"text","text":"3(1)","x":60,"y":-100,"width":100,"height":60},
+		{"id":"5d060446367eb4a5","type":"text","text":"1(4)","x":60,"y":-220,"width":100,"height":60},
+		{"id":"eb8e86c8cc810a6b","type":"text","text":"1(5)","x":200,"y":-320,"width":100,"height":60},
+		{"id":"a6256110c0b541c5","type":"text","text":"4(1)","x":200,"y":-190,"width":100,"height":60},
+		{"id":"0eb74d4abc12fa23","type":"text","text":"3(2)","x":200,"y":-80,"width":100,"height":60},
+		{"id":"f0df0445af68817b","type":"text","text":"2(3)","x":200,"y":40,"width":100,"height":60},
+		{"id":"0938bfd3dba1bfa6","type":"text","text":"5(1)","x":200,"y":160,"width":100,"height":60},
+		{"id":"242f1ce07c364214","x":380,"y":-85,"width":418,"height":70,"type":"text","text":"从第三个月起，每个月的兔子总数为前两个月的和"}
+	],
+	"edges":[
+		{"id":"02cf7a60eef90a6c","fromNode":"5afa0fea391c15c9","fromSide":"right","toNode":"9a9c581ac08a3762","toSide":"left"},
+		{"id":"53b3e4aee982385a","fromNode":"9a9c581ac08a3762","fromSide":"right","toNode":"81b5f0c22d713022","toSide":"left"},
+		{"id":"e0e5cefce58b97d2","fromNode":"9a9c581ac08a3762","fromSide":"right","toNode":"55464d747cc4c30b","toSide":"left"},
+		{"id":"bed1b77292cfabec","fromNode":"81b5f0c22d713022","fromSide":"right","toNode":"5d060446367eb4a5","toSide":"left"},
+		{"id":"9434e67be907118a","fromNode":"81b5f0c22d713022","fromSide":"right","toNode":"816b48057a2058f2","toSide":"left"},
+		{"id":"1809f18720efbe8e","fromNode":"55464d747cc4c30b","fromSide":"right","toNode":"4c7b618745ae9f88","toSide":"left"},
+		{"id":"a77fa495b8cc86ef","fromNode":"5d060446367eb4a5","fromSide":"right","toNode":"eb8e86c8cc810a6b","toSide":"left"},
+		{"id":"bde72fdd36425870","fromNode":"5d060446367eb4a5","fromSide":"right","toNode":"a6256110c0b541c5","toSide":"left"},
+		{"id":"811617f354b1f598","fromNode":"816b48057a2058f2","fromSide":"right","toNode":"0eb74d4abc12fa23","toSide":"left"},
+		{"id":"8205481a142a8dd6","fromNode":"4c7b618745ae9f88","fromSide":"right","toNode":"f0df0445af68817b","toSide":"left"},
+		{"id":"9ab14af67a0d62b8","fromNode":"4c7b618745ae9f88","fromSide":"right","toNode":"0938bfd3dba1bfa6","toSide":"left"},
+		{"id":"7ac85c372c35bed4","fromNode":"8bcb6862187226fe","fromSide":"right","toNode":"242f1ce07c364214","toSide":"left"}
+	]
+}
