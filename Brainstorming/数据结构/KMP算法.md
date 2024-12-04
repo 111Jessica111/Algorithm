@@ -59,3 +59,5 @@ Int Index_KMP(SString S, SString T, int pos) { //见教材P82
 		else return0;
 }
 ```
+
+- 时间复杂度：O(n+m)
