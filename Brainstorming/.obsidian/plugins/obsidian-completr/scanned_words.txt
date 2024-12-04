@@ -1,6 +1,7 @@
 next
 nextval
 nu
+nodes
 KMP
 Index
 InsertQuelist
@@ -52,12 +53,14 @@ adjvex
 else
 emptyQ
 eg
+edges
 while
 check
 cur
 Queen
 logn
 left
+log
 pre
 height
 depth
