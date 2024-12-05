@@ -35,6 +35,7 @@ DLR
 DeleteQuelist
 DBS
 DFS
+Day
 LDR
 LRD
 LL
@@ -42,13 +43,16 @@ LR
 realloc
 return
 right
+root
 kuai
 key
+kn
 int
 if
 Firstadj
 firstarc
 for
+failure
 adjvex
 else
 emptyQ
@@ -62,5 +66,7 @@ logn
 left
 log
 pre
+planner
 height
 depth
+Tasks

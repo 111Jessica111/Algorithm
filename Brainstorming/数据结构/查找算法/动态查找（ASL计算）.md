@@ -85,7 +85,8 @@ void removeItem(BinarySearchTree *bst, int num{
 	- RR平衡旋转
 	- LR平衡旋转
 	- RL平衡旋转
-```LL旋转
+```CSS
+LL旋转：
         5                 3
        /                 / \
       3      ==》        2  5
@@ -94,7 +95,8 @@ void removeItem(BinarySearchTree *bst, int num{
 ```
 
 
-```RR旋转
+```CSS
+RR旋转：
         5                 6
          \               / \
           6      ==》    5  7
@@ -103,7 +105,8 @@ void removeItem(BinarySearchTree *bst, int num{
 ```
 
 
-```LR旋转
+```CSS
+LR旋转：
         5                 4
        /                 / \
       3       ==》       3  5
@@ -112,10 +115,18 @@ void removeItem(BinarySearchTree *bst, int num{
 ```
 
 
-```RL旋转
+```CSS
+RL旋转：
         5                 7
          \               / \
           7      ==》    5  6
          /      
         6  
 ```
+
+
+#### 扩展：ASL查找失败的概率
+
+- P(failure)=$\frac{m}{n}$
+- 其中m为未查找到的元素数量
+- n为需要查找的元素总量

@@ -1,5 +1,8 @@
 [
   "table-editor-obsidian",
   "obsidian-completr",
-  "code-styler"
+  "code-styler",
+  "tasks-calendar-wrapper",
+  "obsidian-day-planner",
+  "dataview"
 ]
